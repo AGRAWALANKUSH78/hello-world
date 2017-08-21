@@ -1,3 +1,3 @@
 # hello-world
-Not even a single clue how it works. lets start learning today.
+Not even a single clue how it works.
 now i started to get something.
